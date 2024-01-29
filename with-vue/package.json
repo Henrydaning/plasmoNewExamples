@@ -13,7 +13,7 @@
     "package": "plasmo package"
   },
   "dependencies": {
-    "plasmo": "workspace:*",
+    "plasmo": "0.83.0",
     "vue": "3.3.4"
   },
   "devDependencies": {

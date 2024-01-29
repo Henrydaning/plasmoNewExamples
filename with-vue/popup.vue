@@ -1,13 +1,16 @@
 <template>
   <div>
     <h2 class="text-center">
-      Welcome to your
+      Welcome to henry
       <a href="https://www.plasmo.com" target="_blank">Plasmo</a> Extension!
     </h2>
 
     <div class="container">
-      <button @click="decrement">-</button>
+      <button @click="decrement">-henrygood</button>
       <p>
+      <div>
+        chrome插件实时开发
+      </div>
         <b>{{ state.count }}</b>
       </p>
       <button @click="increment">+</button>
